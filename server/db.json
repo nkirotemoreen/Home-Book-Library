@@ -1,0 +1,105 @@
+{
+  "library": [
+    {
+      "id": 1,
+      "cover": "http://",
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 2,
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 3,
+      "cover": "http://",
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 4,
+      "cover": "http://",
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 5,
+      "cover": "http://",
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 6,
+      "cover": "http://",
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 7,
+      "cover": "http://",
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 8,
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 9,
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 10,
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "id": 11,
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "favourites": "true"
+    },
+    {
+      "title": "qwerty",
+      "author": "qwerty",
+      "description": "qwerty",
+      "id": 12
+    },
+    {
+      "id": 7821,
+      "Title": "azerty",
+      "Author": "azerty",
+      "description": "azerty"
+    },
+    {
+      "id": 2608,
+      "Title": "",
+      "Author": "",
+      "description": ""
+    }
+  ]
+}
