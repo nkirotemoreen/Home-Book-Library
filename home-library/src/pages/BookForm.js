@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import Header from '../components/Header'
+import { Form, Button } from 'react-bootstrap';
 
 
 const BookForm = () => {
@@ -33,20 +34,53 @@ const BookForm = () => {
   return (
     <>
       <Header />
-      <form onSubmit={handleSubmit}>
-        <label>Title</label>
-        <input type="text" value={title} onChange={(e)=>setTitle(e.target.value)}  placeholder="Book Title"/>
 
-        <label>Author</label>
-        <input type="text" value={author} placeholder="Book Author" onChange={(e)=>setAuthor(e.target.value)}/>
-
-        <label>Description</label>
-        <input type="text" value={description} placeholder="Book Description"onChange={(e)=>setDescription(e.target.value)}/>
-        
-        <button type="submit">submit</button>
-      </form>
+      <div className="main-form">
       
-     
+      <Form onSubmit={handleSubmit}>
+        <Form.Group controlId="name">
+          <Form.Label>Book Name</Form.Label>
+          <Form.Control
+            className="input-control"
+            type="text"
+            name="bookname"
+            value={title}
+            placeholder="Enter name of book"
+            onChange={(e)=>setTitle(e.target.value)}
+          />
+        </Form.Group>
+        <Form.Group controlId="author">
+          <Form.Label>Book Author</Form.Label>
+          <Form.Control
+            className="input-control"
+            type="text"
+            name="author"
+            value={author}
+            placeholder="Enter name of author"
+            onChange={(e)=>setAuthor(e.target.value)}
+          />
+        </Form.Group>
+        <Form.Group controlId="author">
+          <Form.Label>Book Description</Form.Label>
+          <Form.Control
+            className="input-control"
+            type="text"
+            name="description"
+            value={description}
+            placeholder="Enter description of the book..."
+            onChange={(e)=>setDescription(e.target.value)}
+          />
+        </Form.Group>
+        
+        
+        
+        <Button variant="primary" type="submit" className="submit-btn" >
+          Submit
+        </Button>
+      </Form>
+    </div>
+  
+
  
   </>
   )
