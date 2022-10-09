@@ -7,7 +7,7 @@ import {librarylist} from '../librarylist'
 const Library = () => {
   const[books,setBooks]=useState([])
   useEffect(() => {
-    setBooks(librarylist)
+    
       
   },[])
 // console.log('books', books)
