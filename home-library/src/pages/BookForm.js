@@ -14,7 +14,7 @@ const BookForm = () => {
       id:Math.floor(Math.random()*10000),
       Title:title, Author:author,description
     }
-    console.log(data)
+    //console.log(data)
 
     //posting books to the server
     let url ="http://localhost:5000/library"

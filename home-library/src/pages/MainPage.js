@@ -14,7 +14,7 @@ const MainPage = () => {
     }
 fetchBooks()
   },[])
-console.log('books', books)
+// console.log('books', books)
     return (
     <div className='main-content'>
       
