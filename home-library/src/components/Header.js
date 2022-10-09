@@ -13,7 +13,7 @@ const Header = () => {
       <div className="links">
         <ul>
         <NavLink to="/" className="link" activeClassName="active" exact>
-          Books List
+          BooksList
         </NavLink>
         <NavLink to="/add" className="link" activeClassName="active">
           Add Book

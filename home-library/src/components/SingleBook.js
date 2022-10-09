@@ -1,5 +1,6 @@
 import React from 'react'
 import {librarylist} from '../librarylist'
+import { Button, Card } from 'react-bootstrap';
 
 
 const SingleBook = ({data}) => {
@@ -31,13 +32,19 @@ const SingleBook = ({data}) => {
     {data && data.map(dt=>{
      // console.log(dt.title)
     return (
-      <ul className="book" key={dt.id}>
-        <li>title:{dt.Title} </li>
-        <li className="book-title">author: {dt.Author} </li>
+      <Card style={{ width: '18rem' }} className="book">
+        <Card.Body>
+        <Card.Title className="book-title" key={dt.id}> </Card.Title>
+        <ul className="book-details">
+          <li>title:{dt.Title} </li>
+          <li className="book-title">author: {dt.Author} </li>
     
-        <li>description:{dt.description} </li>
-        <button onClick={() =>handleClick(dt.id)}>toLibrary</button>
-        </ul>
+            <li>description:{dt.description} </li>
+           </ul> 
+        <Button variant="primary"onClick={() =>handleClick(dt.id)}>toLibrary</Button>
+        
+        </Card.Body>
+       </Card> 
    ) })}
     </>
   )
