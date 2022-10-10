@@ -33,7 +33,7 @@
         border-bottom: 2px solid transparent;
         
     }
-    .link{
+    .nav{
       padding: 5px 10px;
       font-weight: 100;
       margin: 1rem;
@@ -52,12 +52,10 @@
         -20px -20px 40px #ffae34, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606,
         0 -80px 70px #973716, 10px -90px 80px #451b0e;
       display: inline-block;
-    }
-    
-    h1
-     {
       color: #666;
     }
+    
+   
     .book-list {
       display: flex;
       flex-wrap: wrap;
@@ -84,7 +82,7 @@
       float: left;
       margin-bottom: 50px;
     }
-    .book {
+    /* .book {
       margin: 10px;
       width: 288px;
       overflow: hidden;
@@ -100,7 +98,7 @@
           margin-bottom: 0.5rem;
         }
       }
-    }
+    } */
     .main-form {
       color: #222222;
       font-size: 18px;

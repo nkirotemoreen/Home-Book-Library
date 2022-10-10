@@ -2,9 +2,9 @@
   "library": [
     {
       "id": 1,
-      "Title": "The Alchemist",
-      "Author": "Paulo Coelho",
-      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "Title": "The River And The Source",
+      "Author": "Magrate Ogola",
+      "description": "Generations of Women",
       "favourites": "true"
     },
     {
@@ -16,16 +16,16 @@
     },
     {
       "id": 3,
-      "Title": "The Alchemist",
-      "Author": "Paulo Coelho",
-      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "Title": "Finding Me",
+      "Author": "Viola Davis",
+      "description": "Healing Childhood traumas",
       "favourites": "true"
     },
     {
       "id": 4,
-      "Title": "The Alchemist",
-      "Author": "Paulo Coelho",
-      "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
+      "Title": "Madam First-Lady",
+      "Author": "Lilian Nganga",
+      "description": "achivements of a first lady",
       "favourites": "true"
     },
     {
@@ -58,22 +58,22 @@
     },
     {
       "id": 9,
-      "Title": "The Alchemist",
-      "Author": "Paulo Coelho",
+      "Title": "Lets Roll",
+      "Author": "Lisa Beamer",
       "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
       "favourites": "true"
     },
     {
       "id": 10,
-      "Title": "The Alchemist",
+      "Title": "Eleven Minutes",
       "Author": "Paulo Coelho",
       "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
       "favourites": "true"
     },
     {
       "id": 11,
-      "Title": "The Alchemist",
-      "Author": "Paulo Coelho",
+      "Title": "TThe 5AM club",
+      "Author": "Robin Sharma",
       "description": "This book is an un-subtle, preachy New Age story about a Spanish shepherd named Santiago who dreams of a treasure buried by the pyramids of Egypt",
       "favourites": "true"
     },

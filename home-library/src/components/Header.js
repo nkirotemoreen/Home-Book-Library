@@ -12,13 +12,13 @@ const Header = () => {
       <hr />
       <div className="links">
         <ul>
-        <NavLink to="/" className="link" activeClassName="active" exact>
+        <NavLink to="/" className="nav" activeClassName="active" exact>
           BooksList
         </NavLink>
-        <NavLink to="/add" className="link" activeClassName="active">
+        <NavLink to="/add" className="nav" activeClassName="active">
           Add Book
         </NavLink>
-        <NavLink to="/read" className="link" activeClassName="active">Library</NavLink>
+        <NavLink to="/read" className="nav" activeClassName="active">Library</NavLink>
      
         </ul>
         </div>
