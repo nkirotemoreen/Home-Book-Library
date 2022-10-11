@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "gh-pages":"^2.0.1"
   }
 }
